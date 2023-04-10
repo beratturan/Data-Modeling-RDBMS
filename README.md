@@ -14,7 +14,7 @@ The purpose of this project is creating a database system, which will be impleme
 - **Table for Each Entity:** Tables in the database must be created according to the entity names with correct attributes.
 
 ## Database Mapping Diagram
-<p align="center"><img src="docs/mapping.png" alt="workflow" width="800"/></p>
+<p align="center"><img src="mapping.png" alt="workflow" width="800"/></p>
 
 ## Tables
 
